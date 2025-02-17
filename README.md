@@ -48,9 +48,18 @@ This script can be extended to include an API system for remote conversion reque
 
 The script automatically installs the necessary dependencies (FFmpeg).
 
+
+[![Proprietary Software](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
+
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is proprietary software. All rights are reserved by the author/organization.  
+Unauthorized copying, modification, distribution, or use of this software or its source code, via any medium, is strictly prohibited without explicit permission.
+
+For more details, visit [LevelPixel](https://levelpixel.net)
+
+
 
 ## Contributing
 
